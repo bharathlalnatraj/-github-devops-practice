@@ -29,5 +29,6 @@ pipeline {
                 echo 'Deployment stage completed'
             }
         }
+        // Testing automatic Jenkins trigger
     }
 }
